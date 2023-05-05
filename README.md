@@ -1,2 +1,1 @@
-# MachineLearningRawCode
-In this repository I have all of my Machine learning raw code  written by me. only using numpy.
+This is only to represent the raw code using just numpy
